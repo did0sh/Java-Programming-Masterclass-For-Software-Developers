@@ -1,0 +1,43 @@
+package section8_Arrays;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class SortArray {
+    private static Scanner scanner = new Scanner(System.in);
+    public static void main(String[] args) {
+        int[] numbers = getIntegers(5);
+        printArray(numbers);
+        int[] sorted = sortArray(numbers);
+        printArray(sorted);
+
+    }
+
+    public static int[] getIntegers(int number){
+        System.out.println("Enter " + number + " numbers:");
+        int[] numbers = new int[number];
+
+        for (int i = 0; i < numbers.length; i++) {
+            numbers[i] = scanner.nextInt();
+        }
+
+        return numbers;
+    }
+
+    public static void printArray(int[] array){
+        for (int i = 0; i < array.length; i++) {
+            System.out.println("Index: " + i + ", value: " + array[i]);
+        }
+    }
+
+    public static int[] sortArray(int[] array){
+        int[] sortedArray = new int[array.length];
+        Arrays.sort(array);
+        int index = -1;
+        for (int i = array.length - 1; i >= 0 ; i--) {
+            index++;
+            sortedArray[index] = array[i];
+        }
+        return sortedArray;
+    }
+}
