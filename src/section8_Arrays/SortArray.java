@@ -13,7 +13,7 @@ public class SortArray {
 
     }
 
-    public static int[] getIntegers(int number){
+    private static int[] getIntegers(int number){
         System.out.println("Enter " + number + " numbers:");
         int[] numbers = new int[number];
 
@@ -24,13 +24,14 @@ public class SortArray {
         return numbers;
     }
 
-    public static void printArray(int[] array){
+    private static void printArray(int[] array){
+        System.out.println("Printed array: ");
         for (int i = 0; i < array.length; i++) {
             System.out.println("Index: " + i + ", value: " + array[i]);
         }
     }
 
-    public static int[] sortArray(int[] array){
+    private static int[] sortArray(int[] array){
         int[] sortedArray = new int[array.length];
         Arrays.sort(array);
         int index = -1;
