@@ -6,3 +6,5 @@ The completed sections till this moment are the following:
 2.  **Section 5: Control Flow Statements**
 3.  **Section 6: OOP Part 1 - Classes, Constructors and Inheritance**
 4.  **Section 15: Concurrency in Java**
+5.  **Section 7: OOP Part 2 - Composition, Encapsulation, and Polymorphism**
+6.  **Section 8: Arrays, Java inbuilt Lists, Autoboxing and Unboxing**
