@@ -50,8 +50,9 @@ public class MobilePhone {
 
     public void printContacts(){
         if (!contacts.isEmpty()){
-            for (Contact contact: contacts) {
-                System.out.println(contact.getName() + " -> " + contact.getPhoneNumber());
+            for (int i = 0; i < contacts.size(); i++) {
+                Contact contact = contacts.get(i);
+                System.out.println((i+1) + ". " + contact.getName() + " -> " + contact.getPhoneNumber());
             }
         } else {
             System.out.println("Contact list is empty!");
