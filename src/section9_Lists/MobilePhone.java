@@ -7,8 +7,8 @@ public class MobilePhone {
     private List<Contact> contacts = new ArrayList<>();
 
 
-    public boolean addNewContact(Contact contact){
-        if (findContact(contact.getName()) >= 0){
+    public boolean addNewContact(Contact contact) {
+        if (findContact(contact.getName()) >= 0) {
             System.out.println("Contact already exists!");
             return false;
         }
@@ -16,9 +16,9 @@ public class MobilePhone {
         return true;
     }
 
-    public boolean updateContact(Contact oldContact, Contact newContact){
+    public boolean updateContact(Contact oldContact, Contact newContact) {
         int position = findContact(oldContact);
-        if (position >= 0){
+        if (position >= 0) {
             contacts.set(position, newContact);
             System.out.println("Contact: " + oldContact.getName() + " was replaced with: " + newContact.getName());
             return true;
@@ -28,7 +28,7 @@ public class MobilePhone {
         }
     }
 
-    public boolean removeContact(Contact contact){
+    public boolean removeContact(Contact contact) {
         int position = findContact(contact);
         if (position >= 0) {
             contacts.remove(contact);
@@ -40,33 +40,34 @@ public class MobilePhone {
         }
     }
 
-    public Contact queryContact(String name){
+    public Contact queryContact(String name) {
         int position = findContact(name);
-        if (position >= 0){
+        if (position >= 0) {
             return contacts.get(position);
         }
         return null;
     }
 
-    public void printContacts(){
-        if (!contacts.isEmpty()){
+    public void printContacts() {
+        if (!contacts.isEmpty()) {
             for (int i = 0; i < contacts.size(); i++) {
                 Contact contact = contacts.get(i);
-                System.out.println((i+1) + ". " + contact.getName() + " -> " + contact.getPhoneNumber());
+                System.out.println((i + 1) + ". " + contact.getName() + " -> " + contact.getPhoneNumber());
             }
         } else {
             System.out.println("Contact list is empty!");
         }
 
     }
-    private int findContact(Contact contact){
+
+    private int findContact(Contact contact) {
         return this.contacts.indexOf(contact);
     }
 
-    private int findContact(String name){
+    private int findContact(String name) {
         for (int i = 0; i < contacts.size(); i++) {
             Contact contact = contacts.get(i);
-            if (contact.getName().equals(name)){
+            if (contact.getName().equals(name)) {
                 return i;
             }
         }
