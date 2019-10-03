@@ -2,9 +2,6 @@ package section8_Arrays;
 
 import java.util.ArrayList;
 
-/**
- * Created by dev on 4/09/15.
- */
 public class Branch {
     private String name;
     private ArrayList<Customer> customers;
