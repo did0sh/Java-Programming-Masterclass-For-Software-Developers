@@ -3,6 +3,52 @@
   <component name="ChangeListManager">
     <list default="true" id="e75892ce-495b-4c65-af20-6bfeab4bc395" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_8/AreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_3/BarkingDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_5/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_6/EqualSumChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/EqualityPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_10/EqualityPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/LeapYearCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_4/LeapYearCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_2/MegaBytesConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/MinutesToYearsAndDaysCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_9/MinutesToYearsAndDaysCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/PlayingCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_11/PlayingCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_1/SpeedConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/coding_exercise_7/TeenNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section4_Expressions/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section4_Expressions/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/AllFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_21/AllFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/DiagonalStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_26/DiagonalStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/EvenDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_17/EvenDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/FirstLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_16/FirstLastDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/FlourPack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_24/FlourPack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_20/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/InputCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_27/InputCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/LargestPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_25/LargestPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/LastDigitChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_19/LastDigitChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/NumberInWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_12/NumberInWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/NumberOfDaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_13/NumberOfDaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_15/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_23/NumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/PaintJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_28/PaintJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_22/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/SharedDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_18/SharedDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/SumOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/coding_exercise_14/SumOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section5_ControlFlow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section5_ControlFlow/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_33/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_33/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_35/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_34/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_36/Cuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_35/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_33/Floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_30/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_32/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_36/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section6_OOP1/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section6_OOP1/coding_exercise_31/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section7_OOP2/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section7_OOP2/coding_exercise_37/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section7_OOP2/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section7_OOP2/coding_exercise_37/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section7_OOP2/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section7_OOP2/coding_exercise_37/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section7_OOP2/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section7_OOP2/coding_exercise_37/Lamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section7_OOP2/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section7_OOP2/coding_exercise_37/Wall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +101,7 @@
       </method>
     </configuration>
     <configuration name="SynchronizedThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section15_Threads.customcode.SynchronizedThreads" />
+      <option name="MAIN_CLASS_NAME" value="section15_Threads.threads_custom_code.SynchronizedThreads" />
       <module name="UdemyExercises" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
