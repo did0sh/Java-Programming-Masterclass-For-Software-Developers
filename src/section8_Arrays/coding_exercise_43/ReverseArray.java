@@ -1,4 +1,4 @@
-package section8_Arrays;
+package section8_Arrays.coding_exercise_43;
 
 import java.util.Arrays;
 import java.util.Scanner;

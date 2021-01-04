@@ -1,9 +1,9 @@
-package section8_Arrays;
+package section8_Arrays.coding_exercise_41;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SortArray {
+public class SortedArray {
     private static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         int[] numbers = getIntegers(5);

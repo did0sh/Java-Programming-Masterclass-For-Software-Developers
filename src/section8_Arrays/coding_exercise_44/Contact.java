@@ -1,4 +1,4 @@
-package section8_Arrays;
+package section8_Arrays.coding_exercise_44;
 
 public class Contact {
     private String name;

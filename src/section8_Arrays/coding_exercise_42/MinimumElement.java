@@ -1,9 +1,9 @@
-package section8_Arrays;
+package section8_Arrays.coding_exercise_42;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class MinElement {
+public class MinimumElement {
     private static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.println("Enter the count of numbers: ");

@@ -1,5 +1,8 @@
 package section8_Arrays;
 
+import section8_Arrays.coding_exercise_44.Contact;
+import section8_Arrays.coding_exercise_44.MobilePhone;
+
 import java.util.Scanner;
 
 public class Main {
