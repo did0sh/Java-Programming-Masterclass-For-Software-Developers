@@ -1,4 +1,4 @@
-package section8_Arrays.linked_list_challenge;
+package section8_Arrays.coding_exercise_46;
 
 /**
  * Created by dev on 18/09/15.
