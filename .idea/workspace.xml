@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e75892ce-495b-4c65-af20-6bfeab4bc395" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_45/description.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_45/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_45/Branch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_44/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_45/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/MinElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_42/MinimumElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_44/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_43/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_41/SortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,10 +180,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1609755363512">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1609933868506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609755363512" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609933868506" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609848234235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609848234235" />
   </component>
   <component name="masterDetails">
     <states>
