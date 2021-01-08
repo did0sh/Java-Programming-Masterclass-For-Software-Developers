@@ -99,12 +99,12 @@ public class Player implements ISaveable {
     }
 
     @Override
-    public void read(List<String> text) {
-        if(text != null && text.size() > 0){
-            this.name = text.get(0);
-            this.hitPoints = Integer.parseInt(text.get(1));
-            this.strength = Integer.parseInt(text.get(2));
-            this.weapon = text.get(3);
+    public void read(List<String> input) {
+        if(input != null && input.size() > 0){
+            this.name = input.get(0);
+            this.hitPoints = Integer.parseInt(input.get(1));
+            this.strength = Integer.parseInt(input.get(2));
+            this.weapon = input.get(3);
         }
     }
 

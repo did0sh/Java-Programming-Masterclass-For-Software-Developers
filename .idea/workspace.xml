@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e75892ce-495b-4c65-af20-6bfeab4bc395" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_48/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_48/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46/description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_48/description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_47/ISaveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_47/ISaveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_47/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_47/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_47/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_47/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
