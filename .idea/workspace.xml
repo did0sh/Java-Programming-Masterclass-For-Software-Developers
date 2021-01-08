@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e75892ce-495b-4c65-af20-6bfeab4bc395" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/linked_list_challenge/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/linked_list_challenge/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/linked_list_challenge/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_48/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_48/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46/description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/section9_Interfaces/coding_exercise_48/description.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,18 +46,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569585126275" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_45" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/section8_Arrays/coding_exercise_46" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Деян\Desktop\Java Development Git\Java-Programming-Masterclass-For-Software-Developers\src\section9_Interfaces\coding_exercise_48" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Деян\Desktop\Java Development Git\Java-Programming-Masterclass-For-Software-Developers\src\section8_Arrays\coding_exercise_46" />
       <recent name="C:\Users\Деян\Desktop\Java Development Git\Java-Programming-Masterclass-For-Software-Developers\src\section8_Arrays\coding_exercise_45" />
       <recent name="C:\Users\Деян\Desktop\Java Development Git\Java-Programming-Masterclass-For-Software-Developers\src\section8_Arrays\coding_exercise_44" />
       <recent name="C:\Users\Деян\Desktop\Java Development Git\Java-Programming-Masterclass-For-Software-Developers\src\section8_Arrays\coding_exercise_43" />
       <recent name="C:\Users\Деян\Desktop\Java Development Git\Java-Programming-Masterclass-For-Software-Developers\src\section8_Arrays\coding_exercise_42" />
-      <recent name="C:\Users\Деян\Desktop\Java Development Git\Java-Programming-Masterclass-For-Software-Developers\src\section7_OOP2\coding_exercise_37" />
     </key>
   </component>
   <component name="RunManager" selected="Application.SynchronizedThreads">
@@ -184,10 +187,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1609933868506">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1610102377681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609933868506" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1610102377681" />
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1610019447705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1610019447705" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1610101558891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1610101558891" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609848234235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
